@@ -1,6 +1,5 @@
 def even(num):
-    num_2 = num/2
-    num_2 = int(num_2)
+    num_2 = int(num/2)
     num_2 = num_2 * 2
     if num_2 == num:
         return True
