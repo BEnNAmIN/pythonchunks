@@ -1,5 +1,5 @@
 vege = input("Is anybody in your party vegeterian? ")
-gl_fr = input("Is anybody in your party vegeterian? ")
+gl_fr = input("Is anybody in your party gluten free? ")
 vega = input("Is anybody in your party vegan? ")
 
 print("Here are your restaurant choices: ")
